@@ -10,5 +10,5 @@ build_type=Release
 [options]
 [build_requires]
 [env]
-CC=/usr/local/opt/llvm/bin/clang
-CXX=/usr/local/opt/llvm/bin/clang++
+CC=/usr/local/opt/llvm@13/bin/clang
+CXX=/usr/local/opt/llvm@13/bin/clang++
