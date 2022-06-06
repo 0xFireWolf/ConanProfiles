@@ -1,0 +1,14 @@
+[settings]
+os=Macos
+os_build=Macos
+arch=x86_64
+arch_build=x86_64
+compiler=gcc
+compiler.version=10
+compiler.libcxx=libstdc++11
+build_type=Debug
+[options]
+[build_requires]
+[env]
+CC=/usr/local/bin/gcc-10
+CXX=/usr/local/bin/g++-10
