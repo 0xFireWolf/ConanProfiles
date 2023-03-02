@@ -7,8 +7,7 @@ compiler=clang
 compiler.version=15
 compiler.libcxx=libc++
 build_type=Debug
-[options]
-[build_requires]
+
 [env]
 CC=/usr/local/opt/llvm@15/bin/clang
 CXX=/usr/local/opt/llvm@15/bin/clang++

@@ -7,8 +7,7 @@ compiler=clang
 compiler.version=13
 compiler.libcxx=libc++
 build_type=Release
-[options]
-[build_requires]
+
 [env]
 CC=/opt/homebrew/opt/llvm@13/bin/clang
 CXX=/opt/homebrew/opt/llvm@13/bin/clang++

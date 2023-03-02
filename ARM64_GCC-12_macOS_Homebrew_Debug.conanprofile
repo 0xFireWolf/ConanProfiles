@@ -7,8 +7,7 @@ compiler=gcc
 compiler.version=12
 compiler.libcxx=libstdc++11
 build_type=Debug
-[options]
-[build_requires]
+
 [env]
 CC=/opt/homebrew/bin/gcc-12
 CXX=/opt/homebrew/bin/g++-12
