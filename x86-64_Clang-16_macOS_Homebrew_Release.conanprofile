@@ -1,0 +1,15 @@
+[settings]
+os=Macos
+os_build=Macos
+arch=x86_64
+arch_build=x86_64
+compiler=clang
+compiler.version=16
+compiler.libcxx=libc++
+build_type=Release
+
+[env]
+CC=/usr/local/opt/llvm@16/bin/clang
+CXX=/usr/local/opt/llvm@16/bin/clang++
+CFLAGS="-Wno-error=implicit-function-declaration"
+CXXFLAGS="-Wno-error=implicit-function-declaration"
