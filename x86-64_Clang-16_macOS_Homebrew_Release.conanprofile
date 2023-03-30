@@ -11,5 +11,3 @@ build_type=Release
 [env]
 CC=/usr/local/opt/llvm@16/bin/clang
 CXX=/usr/local/opt/llvm@16/bin/clang++
-CFLAGS="-Wno-error=implicit-function-declaration"
-CXXFLAGS="-Wno-error=implicit-function-declaration"

@@ -11,5 +11,3 @@ build_type=Debug
 [env]
 CC=/usr/bin/clang-16
 CXX=/usr/bin/clang++-16
-CFLAGS="-Wno-error=implicit-function-declaration"
-CXXFLAGS="-Wno-error=implicit-function-declaration"
