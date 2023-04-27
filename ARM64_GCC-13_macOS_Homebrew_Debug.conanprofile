@@ -1,0 +1,13 @@
+[settings]
+os=Macos
+os_build=Macos
+arch=armv8
+arch_build=armv8
+compiler=gcc
+compiler.version=13
+compiler.libcxx=libstdc++11
+build_type=Debug
+
+[env]
+CC=/opt/homebrew/bin/gcc-13
+CXX=/opt/homebrew/bin/g++-13
