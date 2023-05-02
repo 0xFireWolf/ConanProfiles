@@ -1,0 +1,13 @@
+[settings]
+os=Linux
+os_build=Linux
+arch=x86_64
+arch_build=x86_64
+compiler=clang
+compiler.version=13
+compiler.libcxx=libc++
+build_type=Release
+
+[env]
+CC=/home/linuxbrew/.linuxbrew/opt/llvm@13/bin/clang
+CXX=/home/linuxbrew/.linuxbrew/opt/llvm@13/bin/clang++
